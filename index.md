@@ -4,12 +4,12 @@ title: Hello
 ---
 
 
-## Sottobosco Torinese
+## Calendario condiviso
 
-*"calendario condiviso"*.
+*party hard*
 
 
-#### Dicemebre 2027
+#### Dicembre 2027
 
 - 4 Dicembre Sovn Release party
 
